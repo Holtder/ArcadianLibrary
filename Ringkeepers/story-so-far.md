@@ -1,4 +1,4 @@
-﻿# Story so far
+# Story so far
 
 ## Part I: The Mercenaries
 

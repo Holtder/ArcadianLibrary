@@ -1,4 +1,4 @@
-﻿# The Ringkeepers Campaign Summary
+# The Ringkeepers Campaign Summary
 
 ## Part A: Complete Story Summary (8000 characters max)
 
