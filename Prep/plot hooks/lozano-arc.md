@@ -1,4 +1,4 @@
-# Lozano Arc
+﻿# Lozano Arc
 ## Summary
 - Lozano is cursed and the players need restore his connection to Ketephys. For this he needs to return to his original self.
 - A vision will show him signs of his own home town and mention of a magical bow, Lysanthir

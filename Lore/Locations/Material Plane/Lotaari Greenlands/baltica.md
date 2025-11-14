@@ -1,4 +1,4 @@
-# Baltica
+﻿# Baltica
 
 Bordering the Lotaari Greenlands, Baltica is a medium sized village thriving on the development of waterworks and
 

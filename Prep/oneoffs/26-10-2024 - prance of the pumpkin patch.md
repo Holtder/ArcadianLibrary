@@ -1,4 +1,4 @@
-# 26-10-2024
+﻿# 26-10-2024
 A story takes place during a halloween themed festival named the Prance of the Pumpkin Patch, it takes place in Jaka Itzel, a medium sized village located near a cursed Bog, and the yearly festivities keep the monsters of the Bog at bay. Little to the people know that in this magical place, stories come to life, as the bog feeds on their dreams and turns them into horrid reality. The stories and the festivals of Jaka Itzel both create the demons that haunt the village and protects them from it, as the people believe their rituals protect them, and those beliefs make it so. The players will be told that strange magics are at bay at the Bog, ones that can make even your wildest dreams come true.
 
 ## Intro

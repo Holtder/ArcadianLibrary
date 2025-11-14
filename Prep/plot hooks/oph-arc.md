@@ -1,4 +1,4 @@
-# Oph Arc
+﻿# Oph Arc
 ## Large lines
 - Oph is the capital city of Uligor and used to be a giant war camp preparing for the annexation of heaven.
 - With Orcus' takeover, it became a city of control, greed and other sins that are not wrath. Demons feel something is off but are being held down by a corrupt system set up by the mayor, Sarm'oth, the Watcher

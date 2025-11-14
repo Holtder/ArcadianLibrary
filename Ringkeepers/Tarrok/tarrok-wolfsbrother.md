@@ -1,4 +1,4 @@
-# Tarrok Wolfsbrother
+﻿# Tarrok Wolfsbrother
 
 ## Background
 Tarok Wolfsbrother was only a small boy when he was abandoned by his parents. He doesn’t remember much about them, only that his father used to carry around an enormous axe on his back. The day they left, Tarok and his baby sister Scara (who was only a toddler at the time) were playing hide and seek in the meadows near their family’s farm. If he remembers correctly, his parents would only go to the marketplace in Tiressea for a couple of hours, but they never came back… Scared and alone, Tarok and Scara tried to find them, but instead found themselves lost in the slums of Tiressea.

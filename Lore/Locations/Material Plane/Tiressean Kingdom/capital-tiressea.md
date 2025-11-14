@@ -1,4 +1,4 @@
-# Capital - Tiressea
+﻿# Capital - Tiressea
 
 Tiressea is a walled off city divided into three districts, each walled off as well:
 

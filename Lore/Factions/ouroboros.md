@@ -1,4 +1,4 @@
-# Ouroboros
+﻿# Ouroboros
 
 The evil cult led by the mysterious "Umbra", partaking in evil rituals with unknown origin or goal.
 

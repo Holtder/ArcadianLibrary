@@ -1,4 +1,4 @@
-# One off met Alex/Tarrok
+﻿# One off met Alex/Tarrok
 ## Layout
 ### The Judgment
 > The soundless void has a sense of deafening peacefulness to it. It was only moments ago that you stepped into the mists. Or was it years? It truly doesn't matter, as long as you are here. As long as you are nowhere, nowhere means peace. Order and chaos are meaningless as they describe the manner in which matters act out. There are no matters here. The infinite nothingness is familiar to you, you remember it from before you were born. Your soul didn't exist for such an infinite long time. Then you were born and forgot all about that place devoid of existence. You were fresh into the world, able to enjoy the gift of being without being burdened by the knowledge of how small it truly is. Oddly enough, upon death, upon returning to the nothingness, it all comes back to you, as your being is spread across the infinite and your soul is forfeit again. Your memories of life pale in comparison. It forms a distant star on the empty canvas that you see, that you feel, that you are.

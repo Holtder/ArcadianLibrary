@@ -1,4 +1,4 @@
-# Oph
+﻿# Oph
 ## Mindvomit
 ### Law 
 The law that has been introduced after the fall of Gruumsh is commonly referred to as the Statutes
@@ -61,7 +61,7 @@ Brutes: The Horde
 - Mad max style, large cars that guzzle fuel, are loud, all carry axes (some of which are electric guitars)
 - Rebels in the city; despise the law that has been introduced in the past 1000 years
 - Work as a force of nature, would be the most dangerous syndicate if they had any organisation
-- Should Gruumsh or Agadul one day return, they could easily sack Oph
+- Should Gruumsh or Agadûl one day return, they could easily sack Oph
 - Staunch believers in the second coming of Gruumsh in the shape of Agadûl
 - Notable members: 
     - F'arklor 

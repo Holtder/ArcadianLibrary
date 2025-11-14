@@ -1,4 +1,4 @@
-# The Grove
+﻿# The Grove
 
 The Grove is a "city" with a population of about 400 inhabitants. This is the base of operations for the Guardians of the Forest. To the outside world little is known about this place, but to the inhabitants of the Lotaari forest, it is an integral structure of the green lands.
 

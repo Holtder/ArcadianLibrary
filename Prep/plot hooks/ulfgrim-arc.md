@@ -1,4 +1,4 @@
-# Ulfgrim Arc
+﻿# Ulfgrim Arc
 ## Summary
 Summary of upcoming arc:  
 It turns out Thindar is not Umbra, her daughter, Maria, is the reincarnation of Umbra, Lady Dusseaux. The baby has put a spell on Thindar, controlling her from her baby body. Lord Hirm Graham is a far descendent of Lady Dusseaux and, in his own attempts of reaching immortality like his predecessors, started to dabble in the dark arts himself. While not a saint himself, wishes to help the Ringkeepers find her as he has been harassed by the cult of Ouroboros for a while now.  
