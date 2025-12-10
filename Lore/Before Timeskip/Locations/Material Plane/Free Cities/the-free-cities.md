@@ -1,4 +1,4 @@
-﻿# The Free Cities
+# The Free Cities
 
 # Global notes
 

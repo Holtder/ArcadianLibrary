@@ -1,4 +1,4 @@
-﻿# Umbra and Ouroboros
+# Umbra and Ouroboros
 ## Umbra/Lady Dusseaux/Holstice
 ### Identities
 The eponymous lady of the night know many names, but three of her names are relevant to this story, Lady Austra Dusseau, Maria Holstice and Umbra.
