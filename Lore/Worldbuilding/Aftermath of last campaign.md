@@ -31,9 +31,10 @@ Everything is where it should be, that is not a saying, but a planar edict. Demo
 ## Uligor falls
 It was the plan of Orcus, the False Prince, to change Oph to such a lawfully evil city, that it's entirety would be transported to hell, his true realm of origin, you see, Orcus was a devil in disguise, not a true demon. That is why he relished in his moniker of False Prince, as it as a truth hidden in plain sight. The foundations of the continent were already cracking and shaking before the rebellion, but the sudden shift of the Uligor demons snapped those foundations cleanly through. Earthquakes shook the entire continent, as the entire continent sank into the river Styx.
 ## Uligor stands
-A century had passed in the material plane since the death of the Ringkeepers. Queen Dusseaux and her Tiressean army rule over Siressea with an iron fist, secretly the people pray for the Arcadia to return to free them from their toils. 
+A century had passed in the material plane since the death of the Ringkeepers. Queen Dusseaux and her Tiressean army rule over Siressea with an iron fist, secretly the people pray for the Arcadia to return to free them from their toils. One random morning however, everything changes. Uligor rises from the oceans to the north of Tiressea, giant waves wash over the northernmost landmasses and destroy parts of Lotaari, Plaveya and Tiressea. Uligor is reshaped in a land of splendor. The lava is replaced with water and the red sands are replaced with green fields. 
 
 Todo:
+- rising of uligor and consequences
 - story of Meow
 - story of Lozano
 - story of Tarrok
