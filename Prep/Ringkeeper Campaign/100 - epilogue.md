@@ -1,0 +1,62 @@
+# Tarrok
+Music: concerto, brotherhood - FMA OST
+> Bane, Tarrok Wolfsbrother. There are some aspects and perspectives to your life that you don't share with others, albeit friend or foe. Not because it is a secret, but because no one would understand. The cold room you are in is dead silent, the water is still as a mirror, the icicles have stopped shivering and the shock of what happened makes your body forget, just for a moment, to breathe. The air is dead as the night, and yet, for one such as you, it might as well be storming. This silence is nothing compared to the nothingness you endured when you died. The nothingness was both torture and peace as you sought out what came next after your material existence. 
+
+Tell me Tarrok, in one sentence: what was it that pulled you out of this silence to meet the Blackhammer?
+
+> It fills you with both pain and reassurance that your friends, Meow N'one and Lozano Vicerion swim in this silence. You look at the new rings formed on your scythe and finally exhale. Your mission was clear, get these guys, your friends, to where they needed to go. Your mission hasn't failed, it only got a lot simpler. Memories of the past fill your mind. Filled with the need for revenge for the death of your sister, you went out into the world, and only by chance did you run into the archer priest and the flying jester. Before you knew it, your reluctance to form bonds was replaced with a fierce need to protect your own. The roaming half-orc even gained something he could call his home, the Ringkeep.
+
+Tarrok, as I mention the Ringkeep, is there a memory you have of the local denizens and servants that springs to mind?
+
+> Your travels brought you far and wide, not only did you find your revenge, you also found your sister alive. You fought off evils that had slept for millennia and the three of you saw vistas some can't even dream of seeing, such as the flying city of Arcadia, the giant trees of the Lotaari forest or the borders between this world and the next in Meow's hometown Baltica. 
+> In these Baltican Marshes, you and your friends made a fatal error of judgment, as you fought a lost soul you were meant to save. A water spirit emerged and demanded three recoup the cost of that transgression. In order to keep the balance, one of you had to pass to the other side instead. You look to your friends, Lozano had still so much to do with his new companion, Aloy. And Meow was just then shown his place in the world, he was faced with a gargantuan task! 
+
+Tarrok, do you remember what went through your mind as you made your decision to step forward?
+
+>Your second chance is a story of legend never to be told, meant to peter out in silence as the time continues on. You woke up on the black riverbed of Pharasma, questioned by a man, a dwarf you remember stories of. Thoradin Blackhammer, the Blackhammer, a hero of time, now a steward of the dead. He offered you a chance at redemption, a way to save souls instead of condemn them. It is a chance you took with both hands as you took on the moniker Bane. You went deep into the Abyss as you tried to uncover a conspiracy of great import, as thousands of souls not meant to enter that plane were trapped, unable to find rest or reprieve. Your search is still ongoing, but you found something you never expected in Uligor. Who would have expected you to find solace in a tavern in the Abyss, consorting with Demonkind, sharing drinks with the damned. Oppression can sprout anywhere, and where there is oppression, there is rebellion. Where there is rebellion, there is hope. Hope in the Abyss. Whatever happens next, you will carry with you the lesson that hope can sprout in direst of places.
+
+Tarrok, before we return to the icy dungeon that your mind escaped from momentarily, what memory of the Abyss rings truest to this statement?
+
+Music: trisha's lullaby
+> You open your eyes, ready to meet the cold, but instead your are met with the soft rushing of water. A river of dark water snakes through a hilly landscape made up of black sand, ebony trees and obsidian grass. You are kneeling in front of a large boulder, you remember being here once before, when you met the Blackhammer sharpening the edge of his scythe. Your knees shift the sand they rest on as you turn towards the water. Countless rings slowly drift towards along the water. Your eyes follow the river towards the large ivory tower on the horizon, with the large moon resting in the sky above it. Your eyes turn back to the water, you know what to do.
+
+Let Tarrok put the rings on the water.
+
+> Tarrok. As you see your last tethers to your previous life drift off, your vision blurs a bit, and you catch yourself tearing up. In the distortions, you almost feel like you see a third ring floating in the water, leading the way. Tarrok no more. Now you have truly become Bane. You wipe your tears and stand up. Lady Pharasma herself whispers assurances in the back of your mind, and commands you to continue on your quest. 
+
+# Meow
+> Meow. The moment your ring touches the river Styx all becomes clear. Your origin, your unmet fate, your purpose. The Hamuur family found you in the forests near Baltica. They raised you and made you the person you were meant to be. You remember a lesson your parents, Nubrata en Nelive told you. Death is not just the end of a good meal. It never made sense to you but accepted it for what is was regardless. 
+
+In one sentence Meow: describe Baltica to us?
+
+> An incident in your youth made you cast your eyes on the horizons, as you left off on your first travels to explore the world. When you returned home, tragedy had befallen Baltica. Almost all villagers seemed to have been murdered in a bloody slaughter. You dashed towards your childhood home, only to find a horrifying sight. You recognised them immediately, the remains of your family. Their bodies differed from those on the streets however, as you found clean skeletons, laying in traces of water. It was only later that a spirit, a hydrodaemon came to exact a toll on this village. With nothing left in Baltica, you left out into the world again.  
+
+Tell me Meow, as you crossed the village borders back into the unknown, what went through your mind?
+
+> Meow, as you explored the world, you discovered you were attuned to the nature around you, as those arboreal roots developed themselves as sorcerous powers. On your travels you ran into Lozano and Tarrok, who would quickly become your close friends in this harsh world. It was with them that you at one point decided it was time to face your demons head on and go back to Baltica. Using a portal in the council building of Baltica you teleported off to the Lotaari borderlands and you three trekked towards your home village. On the way however, you were faced with wind spirits, calling you to hurry home. As their winds chilled you to your core. Something awakened. You learned a lesson, and this lesson unleashed the unbridled force of nature that lay still within you. Gone was Meow the sorcerer, all hail Meow of the winds!
+
+Meow, when the winds whisper in your ear, what do they tell you?
+
+> Your travels to the moors and marshes of Baltica are a chapter of your life you rather not remember, but the lessons you learned there are seared in your memory. You are the descentant of the Druma. One half of a pair meant to protect the passageways to the afterlife. These passageways have grown unstable, and it was your fate to rebuild them. Unable to do so, as no one taught you this. The spirits have taken extreme measures, they have taken your family and sealed each soul to a different gate, ensuring their longevity at the cost of the eternal binding of your family. Your new purpose was clear, free them from their suffering, rebuild the gates to the afterlife and reclaim your title as Druma.
+
+Meow, if you could say one thing to your family as you leave the world of the living, what would you tell them?
+- Well now they know
+
+>Your remember your family, you were raised amongst great people. You see their faces in the lands of in between. With the knowledge that you passed on, your siblings Marash, Leysha, Sháley, Iley and Genza accepted their fate as they were bound to the gates. You see them standing at the entrance, embracing all who wish to cross it, slowly growing into the role of steward that you were once meant to be. You see the task ahead of them, as they fulfil it proudly until the last living thing dies. Then the meaning of your parents saying becomes clear. 
+>Death is not just the end of a good meal. Death is wiping the crumbs, doing the dishes and putting all the chairs on the table after everyone else has left. As the slate is wiped clean, so is your obligation to the living and the dead. Know that even in your absence, not all is lost, and your family will close the door behind them on the world as the last living thing has died.
+
+# Lozano
+Music: FMA the Forbearer
+> Lozano. Your story follows a path not unlike the stories already told tonight. You remember your youth in Chucky town. One day, after lounging around on a small cliff in the forests nearby, the day of Fire and Magic happened. The skies turned black and within a second, the entire town was gone. You rushed into town to find nothing but a large crater. You find the epicenter of the explosion and run into a devilish sigil. You count your steps and realise that this specific location, was nowhere else than where your own home used to stand. You gather that right here used to be the cabinet where your father kept his bow, Lysanthir. "The bow that will save the world" he would say. 
+
+Lozano. Thinking back on your memories of this town. Did you believe your father? What would Lysanthir save the world from?
+
+> Guided by the teachings of Ketephys, you roamed the world, ever following that great hunt. Then you met your friends, Meow and Lozano. Little could be said that hasn't already been said. You would die for these men. As a matter of fact, you have. They provided a welcome distraction from your past, for a while you were able to be a part of someone else's story. Finally a hunt to tell stories off. In Arcadia you ran into a strange vial of red flakes, which kicked off the Ouroboros investigation. This investigation was the pivotal moment that put you on a different course in life. You've met Lady (and later councilmember) Fightmount, Captain Wilhelm Brightrun, Argentus Blakely, the first Tiefling, Tesh and of course Aloy. Your Roc companion. Although your bond was already strong from the start, you suffered through an infection of the demonic flakes, only a ritual from an Arcadian priest of Irori was able to stop the spread. Aloy took the brunt of it and was forever marked. You were warned. She has the potential to bring great evils to this world, or her powers may be used for good. Whatever happened would depend on her trainer. 
+
+Lozano, if you could see Aloy one more time, what wisdom would you impart on her?
+
+> These distractions of yours lasted for quite a while. Instead of thinking about the past, you got an excuse to shoot arrows at things until they fell under the name of investigation and justice. However, your past slowly crept up to you. Als the three of you travelled the world, you frequented Fel Boorak, also known als Felbrook, a small druidic village home to the Circle of the Heron, where you've acquainted yourself with the Hierophant and his three daughters, the Treetenders. You've saved the village from a cursed cavern that turned out to be a mimic, you've fought off three Hags, and with the help of the Hierophant, you've been able to brew a concoction that allowed you to get closer to your own origin. In a timeless version of this world, you flew on the back of a fully grown Aloy to another part of this world, where now the Free Cities lie, and you discovered more about your past. There were even signs that your youth had taken place a thousand years before the present. It was up to you to find the bow of your father, you path was still to reveal itself to you, but you knew, as long as you and Aloy walked that path together, you remain steadfast to the end. 
+
+Lozano, do you think that facing your past earlier could've averted your current fate?
+
+> 

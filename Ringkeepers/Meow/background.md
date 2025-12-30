@@ -1,4 +1,4 @@
-﻿# Background Meow N'one
+# Background Meow N'one
 Although not more than a tiny dot on the map, the village of Baltica proves to be more influential than most nearby cities. Providing new insights in technology, politics and especially complex water systems meant for farming en energy production. Some owe it to the favorable location of the village, others believe a more transient cause.   
 In the small village of Baltica lives a very loving Gnome family. Although always willing to help their neighbours in whatever way they could. In essence, the family Hamuur is a simple farming family, where non of the members are registered with a company. However they are believed to play essential parts in the village's evolution. The immense variation of the family being there main power. The gnome family consists of 9 members.   
 The father, Nubrata, earns the money for the family by growing produce and selling it in nearby cities. Determination has always been his strongest characteristic and his tongue spit silver, especially after some goldstrike, his favorite special.   

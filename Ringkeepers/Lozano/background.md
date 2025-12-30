@@ -1,4 +1,4 @@
-﻿# Background Lozano Vicerion
+# Background Lozano Vicerion
 Lozano grew up in a peaceful town called Chucky Town. His youth was fairly uncomplicated,  
 the town was quiet and everybody knew each other well. His parents had a good job as  
 merchants and he never lacked anything. But Lozano never felt at ease, from the moment he  
