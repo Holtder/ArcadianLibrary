@@ -1,6 +1,6 @@
 # Umbra and the Demon Lords
 ## Lord and Lady Dusseaux
-The Lady of the Cult —known as Austra Dusseaux, Maria Holstice, and Umbra—was once the stern but capable ruler of a small domain alongside her husband, Lord Boris Dusseaux, in the lands that would later become Ulfgrim. Though their governance promised stability and comfort to compliant subjects, their true purpose lay in necromancy: a ritual designed to drain the life of their people and grant them eternal existence. Lord Dusseaux succeeded in becoming a lich. To prepare for the next time the stars aligned perfectly for this ritual, Boris bound his wife to die and reincarnate a thousand years later. In time, he cultivated a following ready to execute the same ritual for her, so they can spend eternity together. Separated from her this long however cost him his mind, as it decayed over the centuries. In his inaction, both body and phylactery withered away, leaving only a jeweled skull—a demilich—slumbering in endless, mindless eternity, while the promise of his wife’s return lingers as a shadow across history. 
+The Lady of the Cult —known as Maria Dusseaux, Maria Holstice, and Umbra—was once the stern but capable ruler of a small domain alongside her husband, Lord Boris Dusseaux, in the lands that would later become Ulfgrim. Though their governance promised stability and comfort to compliant subjects, their true purpose lay in necromancy: a ritual designed to drain the life of their people and grant them eternal existence. Lord Dusseaux succeeded in becoming a lich. To prepare for the next time the stars aligned perfectly for this ritual, Boris bound his wife to die and reincarnate a thousand years later. In time, he cultivated a following ready to execute the same ritual for her, so they can spend eternity together. Separated from her this long however cost him his mind, as it decayed over the centuries. In his inaction, both body and phylactery withered away, leaving only a jeweled skull—a demilich—slumbering in endless, mindless eternity, while the promise of his wife’s return lingers as a shadow across history. 
 
 A millennium after her death, Lady Dusseaux was reborn with her memories intact, driven only by the desire to reunite with her husband. Discovering his fate shattered her, yet her curse of endless reincarnation bound her to continue. After years of preperation she reincarnated again, this time as Maria Holstice, baby to Thindar Holstice, herbalist of the Ringkeep. Still capable of great magic deeds, she quickly took over the mind of her mother and orchestrated the infamous “first night of darkness,” escaping with Thindar to plot beneath the Ulfloch. Desperate to awaken her husband’s demilich skull, Umbra sought ever greater disturbances to rouse him— unleashing the demon twins Agathor and Agadûl. Even an earthshattering event like this was not enough to pull Boris back from apathy. 
 ## The age of the Ringkeepers
@@ -10,14 +10,13 @@ This tragedy is a story of love, and how far one can go to recover those who the
 
 # The war above
 ## Umbra's path to glory
-In the material plane, things weren't stagnant either. In her dark ways, Umbra infiltrated the Kingdom of Tiressea, home of Deepstone, and found that the powers of Agathor hadn't settled in one place. Instead, they manifested in the people of Tiressea, an entire kingdom, corrupted by demonic energy. Not unfamiliar to these magics, she was quickly able to manipulate herself into a position at the top of the Royal Court. A few poisoned daggers, tricks and rituals later, Umbra became regent of Tiressea, crowning herself Queen Austra Dusseaux I of Tiressea. It took little time to convert the already hardy Kingdom of Tiressea into a martial state with the greatest army that Siressea has ever seen. With this army, she marched. First taking the Darklands and securing the binding place of Gruumsh. She then continued, quickly capturing the Free Cities with the help of Ishraq the Eternal, the lich that rules over the easternmost free city: the necropolis Tashir. It was Ishraq's fate to be stopped by the Ringkeepers during their time in the Free Cities, but the looms of fate were rewritten when they died in Nebebat, the Jewel of the West.
+In the material plane, things weren't stagnant either. In her dark ways, Umbra infiltrated the Kingdom of Tiressea, home of Deepstone, and found that the powers of Agathor hadn't settled in one place. Instead, they manifested in the people of Tiressea, an entire kingdom, corrupted by demonic energy. Not unfamiliar to these magics, she was quickly able to manipulate herself into a position at the top of the Royal Court. A few poisoned daggers, tricks and rituals later, Umbra became regent of Tiressea, crowning herself Queen Maria Dusseaux I of Tiressea. It took little time to convert the already hardy Kingdom of Tiressea into a martial state with the greatest army that Siressea has ever seen. With this army, she marched. First taking the Darklands and securing the binding place of Gruumsh. She then continued, quickly capturing the Free Cities with the help of Ishraq the Eternal, the lich that rules over the easternmost free city: the necropolis Tashir. It was Ishraq's fate to be stopped by the Ringkeepers during their time in the Free Cities, but the looms of fate were rewritten when they died in Nebebat, the Jewel of the West.
 ## The Siressean War
 In Arcadia, Wilhelm Brightrun and Lady Jaina Fightmount discovered the true identity of Queen  Dusseaux, and realised that the time of covert operations was over. They needed to raise an army as well, and they needed to do it *fast*. First allies to join their efforts were the inhabitants of the Lotaari forest. Faced with the state of the world, the Treetenders and the Nightmare Court had put their differences aside. Felbrook quickly followed and so did the nomads of the Dry Wastes. The Arcadian Concord quickly grew in the west, where the dark Tiressean forces did so in the east. Plaveya, caught in the middle, tried to enforce a position of neutrality and organised a parlay between forces in hopes of a ceasefire agreement. 
 
 At the Plaveyan capital Jaina and Wilhelm met Queen Dusseaux and her generals, which quickly proved to be a trap. A few years ago, Dusseaux (as Umbra) had kidnapped Lady Fightmount and kept her underneath the Ulfloch. She performed a ritual slowly taking over her body. While the Ringkeepers did thwart this ritual, Dusseaux did leave some magical imprints on Jaina's soul, ready to be activated at her command. At the fated meeting between forces, the imprints activated: Lady Fightmount suddenly started attacking the demonic generals, triggering a skirmish right then and there. It took the combined efforts of Wilhelm and the entire remaining Arcadian Council to return her to her senses. While no one had died, the aftermath was indisputably horrendous for the Arcadian forces, as Fightmount's outburst did not help the public image of their efforts. Not only did Plaveya choose the Tiressean side in the conflict as a response, the Arcadian Concord started infighting, disputing the capabilities of their current leadership. 
 
 Exploiting this turmoil, Queen Dusseaux marched on the Arcadian lands, taking all but the flying  city itself. As the city was not built for siege, the council decided to unseal the tethers that kept it to the lands it hovered by and flew it off, just it did during the war for Axis and disappeared into nothingness. 
-
 ## Fake peace
 The world turned to an era of veiled prosperity, the Tiressean's flourished as Arcadians, the Lotaari and all other non Tiressean people buckled under their harsh rule. Tashir became the capital of the Free Cities, now and undead land renamed Tashirin. During the years that followed, many uprisings tried to upend this rule but were quickly squashed. The Tiresseans became easy to discern from non-Tiressean people, as Agathor's influence started to manifest itself through their bodies. Umbra, or by now God-Queen Dusseaux, had been spreading flakes of abyssal essence through the world and spiking local water supplies with it. These very flakes once initiated the Ouroboros investigation. The skin tones of these new Tieflings vary  from bright red to dark purple, and curved horns protrude from their skulls. Their race would in time be referred to as Tieflings, or people from the deep. 
 # The War Below
@@ -41,3 +40,32 @@ Possible plot points for the next campaign
 - Prejudice against tieflings (especially Tiressean)
 - The lost city of Arcadia, perhaps frozen in time?
 - Angels having taken over Siressea in an attempt to quell the fighting. 
+
+
+De hoofdstad heet the capital
+
+50 50 combat en lore goed, leuk om lore te laten ontpoppen en secrets. Graag background stories verwerken in wereld. 
+
+Gothic, gothic horror, detectives
+
+Begin echt kleinschalig beginnen
+
+___
+
+4D6 remove lowest
+<6 automatische reroll
+<9 eenmalig rerollen
+
+Alex: 11, 12, 11, 14, 13, 14
+Tijn: 10, 12, 10, 14, 11, 15
+Stijn: 11, 13, 18, 14, 15, 8
+
+Age modifiers allowed
+2 traits
+
+Level 5, voornemen om na eerste sessie naar level 6 te gaan
+
+Stijn: of complexer, of frontliner
+Tijn: support was leuk, misschien opnieuw, maar dichterbij
+Alex: heel lastig, alles is leuk, wil graag groep afronden
+

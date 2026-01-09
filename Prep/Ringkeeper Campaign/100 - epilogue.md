@@ -9,7 +9,7 @@ Tell me Tarrok, in one sentence: what was it that pulled you out of this silence
 Tarrok, as I mention the Ringkeep, is there a memory you have of the local denizens and servants that springs to mind?
 
 > Your travels brought you far and wide, not only did you find your revenge, you also found your sister alive. You fought off evils that had slept for millennia and the three of you saw vistas some can't even dream of seeing, such as the flying city of Arcadia, the giant trees of the Lotaari forest or the borders between this world and the next in Meow's hometown Baltica. 
-> In these Baltican Marshes, you and your friends made a fatal error of judgment, as you fought a lost soul you were meant to save. A water spirit emerged and demanded three recoup the cost of that transgression. In order to keep the balance, one of you had to pass to the other side instead. You look to your friends, Lozano had still so much to do with his new companion, Aloy. And Meow was just then shown his place in the world, he was faced with a gargantuan task! 
+> In these Baltican Marshes, you and your friends made a fatal error of judgment, as you fought a lost soul you were meant to save. A water spirit emerged and demanded thee recoup the cost of that transgression. In order to keep the balance, one of you had to pass to the other side instead. You look to your friends, Lozano had still so much to do with his new companion, Aloy. And Meow was just then shown his place in the world, he was faced with a gargantuan task! 
 
 Tarrok, do you remember what went through your mind as you made your decision to step forward?
 
@@ -53,10 +53,11 @@ Lozano. Thinking back on your memories of this town. Did you believe your father
 
 > Guided by the teachings of Ketephys, you roamed the world, ever following that great hunt. Then you met your friends, Meow and Lozano. Little could be said that hasn't already been said. You would die for these men. As a matter of fact, you have. They provided a welcome distraction from your past, for a while you were able to be a part of someone else's story. Finally a hunt to tell stories off. In Arcadia you ran into a strange vial of red flakes, which kicked off the Ouroboros investigation. This investigation was the pivotal moment that put you on a different course in life. You've met Lady (and later councilmember) Fightmount, Captain Wilhelm Brightrun, Argentus Blakely, the first Tiefling, Tesh and of course Aloy. Your Roc companion. Although your bond was already strong from the start, you suffered through an infection of the demonic flakes, only a ritual from an Arcadian priest of Irori was able to stop the spread. Aloy took the brunt of it and was forever marked. You were warned. She has the potential to bring great evils to this world, or her powers may be used for good. Whatever happened would depend on her trainer. 
 
-Lozano, if you could see Aloy one more time, what wisdom would you impart on her?
+Lozano, if you could see Aloy one more time, what wisdom would you impart on her? -> tell her to be free, never forget the purpose that we set out together
 
 > These distractions of yours lasted for quite a while. Instead of thinking about the past, you got an excuse to shoot arrows at things until they fell under the name of investigation and justice. However, your past slowly crept up to you. Als the three of you travelled the world, you frequented Fel Boorak, also known als Felbrook, a small druidic village home to the Circle of the Heron, where you've acquainted yourself with the Hierophant and his three daughters, the Treetenders. You've saved the village from a cursed cavern that turned out to be a mimic, you've fought off three Hags, and with the help of the Hierophant, you've been able to brew a concoction that allowed you to get closer to your own origin. In a timeless version of this world, you flew on the back of a fully grown Aloy to another part of this world, where now the Free Cities lie, and you discovered more about your past. There were even signs that your youth had taken place a thousand years before the present. It was up to you to find the bow of your father, you path was still to reveal itself to you, but you knew, as long as you and Aloy walked that path together, you remain steadfast to the end. 
 
 Lozano, do you think that facing your past earlier could've averted your current fate?
 
-> 
+__
+
