@@ -1,0 +1,3 @@
+Jacob was a communal cleric in a small village in the countryside. He has always had a strong sense of community and protection of those in need. This caused him to easily fly off the handle or charge headfirst into conflict when he thought someone was being treated unjustly.
+
+Raised by two loving parents, has three younger siblings (hence the protector role). Now happily married with kids of his own.

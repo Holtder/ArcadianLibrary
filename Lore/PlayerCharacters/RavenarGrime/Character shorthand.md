@@ -1,0 +1,1 @@
+Son of Lord Ulfgrim, unwilling to continue his path of non-interference, a dhampir.

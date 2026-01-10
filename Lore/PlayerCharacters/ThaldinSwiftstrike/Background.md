@@ -1,0 +1,7 @@
+I do not remember my parents’ faces. I remember hunger, cold stone beneath my back, and the sound of boots that meant trouble if I stayed too long in one place. The streets raised me, taught me when to run, when to hide, and when to strike first. People called it chaos; to me, it was order — cruel, but honest.
+
+They found me when I was twelve. Men and women who moved too quietly for guards, who watched without staring. They said they could give me purpose, discipline, power. What they gave me was training — brutal, efficient, and stripped of mercy. We were not students; we were tests. Those who failed were removed, their names never spoken again.
+
+I learned quickly. My ki responded not to prayer, but to need. Every breath was a calculation, every strike an exit. The masters praised control, but what they truly valued was obedience. When I realized we were being shaped into weapons to be sold, traded, or unleashed, something in me broke — and then sharpened.
+
+I did not escape cleanly. I left blood on the floor and fear in the halls. Since then, I walk alone. Not because I cannot trust others, but because trust must be earned, and freedom must be guarded. I help when I choose, fight when I must, and never kneel again. The street taught me this: survival is not enough — you must decide what you survive for.
