@@ -1,4 +1,4 @@
-## The Embergrave Manor
+	## The Embergrave Manor
 **NPCs:**  
 - **Lord Hieran Embergrave** (Tiefling) — Gruff, weary, clinging to fading authority.  
 - **Mikhael Embergrave** (Tiefling) — Gentle, sickly, fascinated by birds and poetry.  

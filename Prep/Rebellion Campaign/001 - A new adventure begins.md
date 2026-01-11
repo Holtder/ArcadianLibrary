@@ -86,9 +86,12 @@ On the way to the [[Locations and NPCs#The Embergrave Chapel of the God-Queen]],
 ### Fight: The three thieves
 These three thieves are young miners who decided enough was enough, they plan on taking the loot and leaving town. They wear hooded robes and shawls obfuscating their face. These miners try to fight and escape at the same time. 
 
+Ravenar: 16
 Rella Brumhide (cunning quartermaster VC166); HP 25, init 15
-Tovin Marr (crusty cook VC166); HP29, init 7
-Jannik “Janks” Orswell (crusty cook VC166); HP29, init 7
+Thaldin 13
+Jacob: 7
+Tovin Marr (crusty cook VC166); HP6 , init 7
+Jannik “Janks” Orswell (crusty cook VC166); HP22, init 7
 
 Reward from Berrick if they recover the money (a pouch containing 700gp): 50gp each.
 Also: even if they are thieves, these are still locals, children of beloved members of the community, sparing their lives will have a positive effect on the reputation of the players.
