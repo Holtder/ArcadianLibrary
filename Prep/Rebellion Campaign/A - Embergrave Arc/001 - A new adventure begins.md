@@ -124,16 +124,3 @@ Usable quotes
 
 ## Chapter 5: An audience with the lordling
 The players will recieve an invitation to meet with Ferdinant in the hall of the Embergrave manor. They will be grilled, reveal slowly that Ferdinant loves his brother. Have it be interrupted by the guards telling them the church is on fire! Ferdinant will now believe their innocence, but the townsfolk have seem the players there just before the fire.
-## Chapter 6: To the mines!
-![[Locations and NPCs#The Deepcut Mines]]
-
-As the players reach the dungeon, have them interact with a frustrated foreman, monsters have destroyed the elevator going downstairs to the actual mines, engineers are coming in from the capital, but the monsters need to be gone by then. This confirms it for him, they've dug too deep, the caverns have become cursed.
-
-
-![[Deepcut Mines]]
-## Chapter 7: A mystery revealed & final fight
-Depends on what the players did with it, but if possible have the final fight in the banquet hall in between the long dining tables. Have two of her acolytes turn into Fevered Raveners (undead ghasts)
-
-Veyra Embergrave - Awakened Voice VC 72 - HP 48, init 19
-Acolyte 1 - VC 73 - HP 24, init 12
-Acolyte 2 - VC 73 - HP 24, init 6

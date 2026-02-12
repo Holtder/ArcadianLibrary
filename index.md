@@ -4,4 +4,6 @@ ___
 ## The Ringkeepers
 The campaign story can be read here: [Recap](Ringkeepers\story-so-far)
 
+## The new story (unnamed yet)
+[Recap](story-so-far)
 

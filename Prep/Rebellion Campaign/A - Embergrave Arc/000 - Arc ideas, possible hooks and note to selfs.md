@@ -1,0 +1,1 @@
+- na het revealen van Veyra nog even blijven in Gully Hill, trein komt over een week, misschien iets met het leren kennen van Hieran en het clearen van de mines? Misschien wel een latere ally in de rebellion.
