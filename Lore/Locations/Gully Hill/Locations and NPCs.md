@@ -27,7 +27,6 @@ A long, soot-stained brick building with iron beams and a single platform. The s
 A low-ceilinged timber building lit by a single enchanted lantern that never goes out. The air smells of coal smoke, ale, and fried root vegetables. Travelers, miners, and guards mingle uneasily here, making it the village’s social pressure valve.
 
 ---
-
 ## Tallow & Flint Trading Post
 **NPC:**  
 - **Berrick Flint** (Dwarf) — Gruff merchant, obsessed with fair deals.  
