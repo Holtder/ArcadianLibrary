@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,8 +172,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6963dfb816aa8ad4",
+  "active": "4418cefeaa7080af",
   "lastOpenFiles": [
     "Lore/Locations/Gully Hill/Locations and NPCs.md",
     "Lore/Locations/Gully Hill/House Embergrave.md",
