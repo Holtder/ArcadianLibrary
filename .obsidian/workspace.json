@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "afd500a2295cf26c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2b0fd22ff2589d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6963dfb816aa8ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locations/Gully Hill/The Black Lantern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Black Lantern"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "130ad1d0fd44df72",
+    "type": "split",
+    "children": [
+      {
+        "id": "c74a946b2861eaa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e38c7454f4ccbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4418cefeaa7080af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b46f7eb91db66dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed95b82a5bebac1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd6ee787d1d6eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "920b0e222dd776f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Locations/Gully Hill/The Black Lantern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Black Lantern"
+            }
+          },
+          {
+            "id": "b69cc00749570464",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/Locations/Gully Hill/The Black Lantern.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Black Lantern"
+            }
+          },
+          {
+            "id": "e1a1d3e4b5f17615",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e739bb8eea6d926",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6840d01c362103b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lore/Locations/Gully Hill/The Black Lantern.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Black Lantern"
+            }
+          },
+          {
+            "id": "80eacf73cbf6a25e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6963dfb816aa8ad4",
+  "lastOpenFiles": [
+    "Lore/Locations/Gully Hill/Locations and NPCs.md",
+    "Lore/Locations/Gully Hill/House Embergrave.md",
+    "Prep/Rebellion Campaign/A - Embergrave Arc/004 - The mystery continues.md",
+    "Prep/Ringkeeper Campaign/039-11-09-2020.md",
+    "Lore/PlayerCharacters/RavenarGrime/Character shorthand.md",
+    "Lore/PlayerCharacters/ThaldinSwiftstrike/Background.md",
+    "Prep/Rebellion Campaign/A - Embergrave Arc/003 - Two the Mines!.md",
+    "notestoself.md",
+    "Lore/Locations/Gully Hill/Deepcut Mines (dungeon).md",
+    "Prep/Rebellion Campaign/A - Embergrave Arc/002 - To the Mines!.md",
+    "Lore/PlayerCharacters/JacobMonaghue/Character Shorthand.md",
+    "Prep/Rebellion Campaign/A - Embergrave Arc/000 - Arc ideas, possible hooks and note to selfs.md",
+    "story-so-far.md",
+    "Prep/Rebellion Campaign/A - Embergrave Arc",
+    "index.md",
+    "Prep/Rebellion Campaign/A - Embergrave Arc/001 - A new adventure begins.md",
+    "Untitled.canvas",
+    "Lore/Worldbuilding/Tirresean Queendom/Lawkeepers/Inquisitorious Rex.md",
+    "Lore/Worldbuilding/Tirresean Queendom/Lawkeepers",
+    "2026-02-12.md",
+    "Lore/Locations/Gully Hill/The Black Lantern.md",
+    "Lore/Worldbuilding/Aftermath of last campaign.md",
+    "Lore/Locations/Gully Hill/Plot hooks.md",
+    "Lore/PlayerCharacters/ThaldinSwiftstrike/Character Shorthand.md",
+    "Lore/Locations/Gully Hill/Overview.md",
+    "Lore/Locations/Gully Hill.md",
+    "Lore/Locations/Gully Hill",
+    "Lore/Locations/Gully Hill/Description.md",
+    "Lore/Locations/Gully Hill",
+    "Ringkeepers/story-so-far.md",
+    "Lore/PlayerCharacters/ThaldinSwiftstrike",
+    "Lore/PlayerCharacters/RavenarGrime",
+    "Lore/PlayerCharacters/JacobMonaghue",
+    "Lore/PlayerCharacters",
+    "Media/CharacterSheets/Jacob Monaghue.pdf",
+    "Media/CharacterSheets/Unconfirmed 100429.crdownload",
+    "Media/Images/TiresseanSigil.png",
+    "Lore/Worldbuilding/Tirresean Queendom/Sigil.png",
+    "Prep/Ringkeeper Campaign/100 - epilogue.md",
+    "Media/Images/SaumenKarArena.png"
+  ]
+}
